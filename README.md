@@ -17,6 +17,8 @@ This Todo App is a simple web application created by following the tutorial from
 - CSS
 - JavaScript
 
+## Github Pages
+**link** : https://sammaiah-guguloth.github.io/TodoApp/
 
 ## How to Use
 
